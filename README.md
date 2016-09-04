@@ -1,4 +1,4 @@
-# sdarm-ym-archive-downloader
+# sdarm-rh-archive-downloader
 A simple script to download The Reformation Herald publication archive from http://sdarm.org/ website.
 
 ## Usage (Linux)
