@@ -15,3 +15,5 @@ Run script using:
 ```$ python download_pdfs.py```
 
 Open destination folder, sort files by size, delete empty pdfs (size < 100 KB).
+
+[![Contact me on Codementor](https://www.codementor.io/m-badges/ghitab/find-me-on-cm-b.svg)](https://www.codementor.io/@ghitab?refer=badge)
